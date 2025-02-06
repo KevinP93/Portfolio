@@ -9,7 +9,9 @@
 <br/>
 
 
-## TL;DR
+
+## Résumé
+
 
 Vous pouvez dupliquer ce dépôt pour le modifier et l’adapter selon vos besoins.  Merci !
 
